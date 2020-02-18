@@ -12,6 +12,8 @@ To clone the current master (development version):
 ```
 
 $ git clone http://bitbucket.ppu.edu/scm/nnn/nnn-project.git
+$ git clone https://github.com/AbedMHroub/nnn-project.git
+$ git clone https://abedhroub8@bitbucket.org/abedhroub8/nnn-project.git
 
 ```
 
